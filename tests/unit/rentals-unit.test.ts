@@ -1,5 +1,5 @@
-describe("Rentals Service Unit Tests", () => {
-  it("should pass", () => {
+describe("Tests", () => {
+  it("should work", () => {
     expect(true).toBe(true);
   })
 })
